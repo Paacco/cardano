@@ -1,0 +1,14 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Paacco/cardano/master/PaC_60x60.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Paacco/cardano/master/PaC_orig.png",
+        "location": "Bavaria, Germany",
+        "social": {
+            "telegram_handle": "PaC_StakePool",
+            "github_handle": "Paacco"
+        }
+    },
+    "when-satured-then-recommend": {
+        "0": "153806dbcd134ddee69a8c5204e38ac80448f62342f8c23cfe4b7edf"
+    }        
+}
