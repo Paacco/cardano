@@ -2,6 +2,6 @@
 "name": "PaC_Pool",
 "description": "PaC's Performance Pool",
 "ticker": "PAC",
-"homepage": "https://pac-pool.wixsite.com/cardano-pool",
+"homepage": "https://www.pacstakepool.com",
 "extended": "https://raw.githubusercontent.com/Paacco/cardano/master/pe.json"
 }
