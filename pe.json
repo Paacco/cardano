@@ -5,7 +5,8 @@
         "location": "Bavaria, Germany",
         "social": {
             "telegram_handle": "PaC_StakePool",
-            "github_handle": "Paacco"
+            "github_handle": "Paacco",
+            "twitter_handle": "PAC_StakePool"
         }
     },
     "when-satured-then-recommend": {
