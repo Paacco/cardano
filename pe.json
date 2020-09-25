@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/Paacco/cardano/master/Cardano_64x64.jpeg",
-        "url_png_logo": "https://raw.githubusercontent.com/Paacco/cardano/master/Cardano.jpeg",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Paacco/cardano/master/Cardano_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Paacco/cardano/master/Cardano.png",
         "location": "Bavaria, Germany",
         "social": {
             "telegram_handle": "PaC_StakePool",
